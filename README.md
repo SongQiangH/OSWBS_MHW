@@ -1,2 +1,2 @@
 # OSWBS_MHW
-## The code consists mainly of Python, used to obtain the findings of OSWBS_MHW in July 2022.
+## The codes consist mainly of Python, used to analyze the data and generate the results presented in the study of OSWBS_MHW in July 2022. If there is any question, you can contact me at qhsong@scsio.ac.cn
